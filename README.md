@@ -1,5 +1,6 @@
-🕸️ Web Scraping Projects ✨
-This repository contains two robust Python-based web scraping scripts that extract high-value data from dynamic websites using Selenium and Pandas. Ideal for real-world data analysis and automation enthusiasts.
+***🕸️ Web Scraping Projects ✨***
+T
+his repository contains two robust Python-based web scraping scripts that extract high-value data from dynamic websites using Selenium and Pandas. Ideal for real-world data analysis and automation enthusiasts.
 
 1. 🏡 99Acres Property Scraper (Chennai)
 Filename: 01.properties-scraper.py
